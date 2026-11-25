@@ -1,1 +1,10 @@
+.DS_Store
+.idea/
+.venv/
+__pycache__/
 .ipynb_checkpoints/
+data/
+outputs/
+logs/
+scripts/scratch/
+notebooks/
